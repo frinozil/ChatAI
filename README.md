@@ -27,18 +27,6 @@ A premium, minimalist AI-powered RAG (Retrieval-Augmented Generation) Document S
 
 ---
 
-## Screenshots
-
-*Screenshots representing light and dark mode configurations of the chat workspace:*
-
-#### Light Theme Chat Viewport
-![chatAI Workspace Light Mode](https://raw.githubusercontent.com/placeholder-username/chatAI/main/public/vercel.svg)
-
-#### Dark Theme Chat Viewport
-![chatAI Workspace Dark Mode](https://raw.githubusercontent.com/placeholder-username/chatAI/main/public/next.svg)
-
----
-
 ## Tech Stack
 
 - **Framework**: Next.js 16 (App Router)
@@ -73,49 +61,6 @@ src/
 ├── types/                # Types and entity schemas (chat, documents)
 └── utils/                # Date formatting and units conversion helpers
 ```
-
----
-
-## Installation
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v20+ recommended)
-- npm (or yarn/pnpm)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/chatAI.git
-   cd chatAI
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
----
-
-## Running Locally
-
-1. Start the local development server:
-   ```bash
-   npm run dev
-   ```
-
-2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application workspace.
-
----
-
-## Available Scripts
-
-In the project directory, you can run the following tasks:
-
-- `npm run dev`: Starts the Next.js development server in Turbopack mode.
-- `npm run build`: Compiles the project, performing strict TypeScript type checking and page optimization builds.
-- `npm run start`: Runs the built Next.js production bundle.
-- `npm run lint`: Performs lint checks via ESLint to ensure strict style compliance.
-
----
 
 ## Future Improvements
 

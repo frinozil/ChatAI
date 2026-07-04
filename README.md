@@ -4,6 +4,10 @@ A premium, minimalist AI-powered RAG (Retrieval-Augmented Generation) Document S
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://chat-9ef6x9ora-frinozilxavier-3693s-projects.vercel.app/
+
 ## Description
 
 **chatAI** is a state-of-the-art document chat interface that enables users to upload knowledge bases (PDFs, DOCX, TXTs) and perform conversational questions and answers with a retrieval-augmented generation engine. The design prioritizes visual excellence, featuring clean typography, spacious layouts, soft hover effects, and strict responsiveness across desktop, tablet, and mobile devices.
